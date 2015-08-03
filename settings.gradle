@@ -1,0 +1,1 @@
+include ':sqlcipher-for-android', ':demo'
