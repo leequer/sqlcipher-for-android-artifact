@@ -53,11 +53,8 @@ the demo module is there to confirm that the library module
 itself is working fine. You're welcome to poke at the code for
 the demo module to see how to use SQLCipher for Android in a very
 crude form. In particular, note that while the demo module uses
-a hardcoded passphrase, nobody with an IQ higher than plankton
+a hardcoded passphrase, nobody
 ships a production-grade app using a hardcoded passphrase.
-
-(NOTE: no actual plankton were harmed in the creation of this
-README, at least as far as the author is aware)
 
 License
 -------
