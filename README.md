@@ -1,5 +1,7 @@
 # SQLCipher for Android: the Artifact
 
+**NOTE**: The official AAR is now available from JCenter via `compile 'net.zetetic:android-database-sqlcipher:3.3.1-1@aar'`. Please use it. This artifact is officially deprecated, replaced by the official one.
+
 [SQLCipher](https://www.zetetic.net/sqlcipher) is an encrypted
 edition of SQLite.
 [SQLCipher for Android](https://www.zetetic.net/sqlcipher/sqlcipher-for-android/)
